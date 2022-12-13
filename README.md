@@ -3,7 +3,7 @@
 I am a passionate full-stack web developer based in Barcelona!
 
 - 🔭 I’m currently working on Sting: https://www.stingfit.live/
-- 🌱 I’m currently improving my Javascrip and Ruby on Rails skills
+- 🌱 I’m currently improving my Javascript and Ruby on Rails skills
 - ✉️ Reach me: sofiamcr@gmail.com
 - ⚡ I just finished Le Wagon bootcamp of Web development 
 - 
