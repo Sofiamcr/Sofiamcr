@@ -4,9 +4,9 @@ I am a passionate full-stack web developer based in Barcelona!
 
 - 🔭 I’m currently working on Sting: https://www.stingfit.live/
 - 🌱 I’m currently improving my Javascript and Ruby on Rails skills
-- ✉️ Reach me: sofiamcr@gmail.com
 - ⚡ I just finished Le Wagon bootcamp of Web development 
-- 
+- ✉️ Reach me: sofiamcr@gmail.com
+
 <a href="https://linkedin.com/in/sofiamcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofiamcr" height="30" width="40" /></a>
 </p>
 
