@@ -6,7 +6,7 @@ Frontend Engineer with professional experience building scalable web application
 - 🚀 Currently improving my skills in frontend architecture, cloud (AWS/Azure) and modern web technologies.
 - ⚡ I just finished Le Wagon bootcamp of Web development 
 - ✉️ Reach me:  [sofiamcr@gmail.com](mailto:sofiamcr@gmail.com)
-- <a href="https://linkedin.com/in/sofiamcr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="15"/>&nbsp;&nbsp;sofiamcr</a>
+- <a href="https://linkedin.com/in/sofiamcr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="15"/>&nbsp;&nbsp; /sofiamcr</a>
 
 
 
