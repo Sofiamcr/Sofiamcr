@@ -1,11 +1,11 @@
 ### Hi there, I am Sofi👋
 
-I am a passionate full-stack web developer based in Barcelona!
+Frontend Engineer with professional experience building scalable web applications using Angular, TypeScript and RxJS.
 
-- 🔭 I’m currently working on Sting: https://www.stingfit.live/
-- 🌱 I’m currently improving my Javascript and Ruby on Rails skills
+- 💻 I have worked on frontend and full-stack projects using Angular and Java Spring Boot, focusing on clean architecture and maintainable code.
+- 🚀 Currently improving my skills in frontend architecture, cloud (AWS/Azure) and modern web technologies.
 - ⚡ I just finished Le Wagon bootcamp of Web development 
-- ✉️ Reach me: sofiamcr@gmail.com
+- ✉️ Reach me:  [sofiamcr@gmail.com](mailto:sofiamcr@gmail.com)
 
 <a href="https://linkedin.com/in/sofiamcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofiamcr" height="30" width="40" /></a>
 </p>
